@@ -29,3 +29,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+    The person's age is 30 years.
+
+The person lived for 360.00 months.
+The person lived for 1560.00 weeks.
+The person lived for 10950.00 days.
+The person lived for 262800.00 hours.
+The person lived for 15768000.00 minutes.
+The person lived for 946080000.00 seconds.
